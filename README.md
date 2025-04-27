@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-# flutter_application_1
+# Flutter Assignment 6 (Login and Register)
 
-A new Flutter project.
+A new Flutter project developed by:
 
-## Getting Started
+**Hafijur Rahman Chowdhury**  
+Department of Computer Science & Engineering  
+Leading University  
+Batch-60 | Section-B  
+Student ID: 0182220012101067
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter_Login-_Register-_Hafij_067_60B
->>>>>>> 810d5442897dedd85d3b9f49ebd136566181d9ce
