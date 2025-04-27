@@ -26,6 +26,9 @@ class _LoginScreenState extends State<LoginScreen> {
         },
       );
 
+      debugPrint('Response status: ${response.statusCode}');
+      debugPrint('Response body: ${response.body}');
+
       final data = json.decode(response.body);
       if (data['success']) {
         Navigator.push(
